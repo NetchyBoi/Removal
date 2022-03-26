@@ -1,0 +1,24 @@
+#mainLogo,
+#seasonLabel,
+#instructions,
+#newsHolder,
+#editorBtnM,
+#rankedSoonTm,
+#streamContainer,
+.youNewDiv,
+#faceItIconM,
+#voiceDisplay,
+#chatSwitch,
+#termsInfo,
+.settingsBtn[style="width:auto;background-color:#994cd1"],
+#policeButton,
+span.material-icons,
+span.material-icons-outlined,
+.verticalSeparator,
+span[style="color: #eb5656"]{
+    display: none !important;
+}
+
+.button, .button:hover {
+    border: none !important;
+}
